@@ -11,7 +11,7 @@ Files consist of:
   - 'market_data.csv': Symbols, positions, and percentage changes.
   - 'news_data.csv': Timestamps, headlines, and links.
  
-## How to Run in bash
+## How to run in bash
 1. Install Dependencies:
 
    sudo apt update && sudo apt install chromium-browser chromium-chromedriver -y
