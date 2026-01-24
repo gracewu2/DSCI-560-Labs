@@ -3,7 +3,7 @@
 ## Team Members:
 Arya Miryala | USC ID:
 
-Grace | USC ID: 1980098805
+Grace Wu | USC ID: 1980098805
 
 Hui Xie | USC ID: 7956658480
 
