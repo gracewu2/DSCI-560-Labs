@@ -2,8 +2,11 @@
 
 ## Team Members:
 Arya Miryala | USC ID:
+
 Grace | USC ID: 1980098805
+
 Hui Xie | USC ID: 7956658480
+
 
 ## Overview
 This lab extracts and cleans data from three different sources (CSV, HTML, PDF) to build a high-integrity dataset for an "Intelligent Culinary & Nutrition Assistant". By cleaning noisy raw data, we improve the correctness of AI responses through prioritizing food safety, modern relevance, and computational efficiency.
