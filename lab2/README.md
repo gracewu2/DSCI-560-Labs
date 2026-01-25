@@ -1,7 +1,10 @@
 # DSCI 560 Lab 2: Multi-Source Culinary Data Exploration
 
+## Team Name:
+StandAI
+
 ## Team Members:
-Arya Miryala | USC ID:
+Arya Miryala | USC ID: 9567678120
 
 Grace Wu | USC ID: 1980098805
 
